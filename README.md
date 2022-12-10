@@ -31,6 +31,8 @@ In the next image we can see a map of correlation.
 
 ![Correlations](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/rsc/correlation.png "Correlations")
 
+The columns *Unnamed: 0* are the id of students.
+
 According to the objective of the project I deleted all the extra that is not important.
 *Gender*, *Lunch*, *Test preparation course* are information that can explain the result of students in the proofs, but there aren't relevant to solve to problem of the study.
 
@@ -48,7 +50,7 @@ I obtained a **F1 score (macro) equal to 0.191**
 I calculated the confusión matrix. In this matrix we can see what predict the model in comparasion to the real values.
 The next image is the confusion matrix.
 
-INSERTAR IMAGEN
+![Confusion matrix](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/rsc/confusion_matrix].png "Confusion matrix")
 
 The axis of the matrix show a codification from 0 to 5, but this corresponds the parental level of eduction from the lowest category to the highest.
 
