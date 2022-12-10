@@ -53,7 +53,7 @@ INSERTAR IMAGEN
 The axis of the matrix show a codification from 0 to 5, but this corresponds the parental level of eduction from the lowest category to the highest.
 
 ## Solution
-To give a final solution I train the *SVM* again, but now with of the content of file with the complete information. Later to train I predict the values of the second file and generated a JSON file named *[predictions.json*](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/src/predictions.json)
+To give a final solution I train the *SVM* again, but now with of the content of file with the complete information. Later to train I predict the values of the second file and generated a JSON file named [*predictions.json*](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/src/predictions.json)
 
 ## License
-- *[Javier Alegre Revuelta*](https://github.com/Javier-21)
+- [*Javier Alegre Revuelta*](https://github.com/Javier-21)
