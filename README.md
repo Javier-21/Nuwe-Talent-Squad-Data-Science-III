@@ -50,7 +50,7 @@ I obtained a **F1 score (macro) equal to 0.191**
 I calculated the confusión matrix. In this matrix we can see what predict the model in comparasion to the real values.
 The next image is the confusion matrix.
 
-![Confusion matrix](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/rsc/confusion_matrix].png "Confusion matrix")
+![Confusion matrix](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/rsc/conusion_matrix.png "Confusion matrix")
 
 The axis of the matrix show a codification from 0 to 5, but this corresponds the parental level of eduction from the lowest category to the highest.
 
