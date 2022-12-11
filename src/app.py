@@ -47,4 +47,4 @@ for n, index in enumerate(df_test['Unnamed: 0']):
     output['target'][str(index)] = int(y_pred[n])
 
 with open("predictions.json", "w") as write_file:
-    predictions = json.dump(output, write_file)
+    json.dump(output, write_file, indent= 2)
