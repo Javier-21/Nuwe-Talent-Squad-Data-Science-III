@@ -29,7 +29,7 @@ To carry out this study, the first step was to observe the data in the file that
 
 In the following image we can see the correlation map.
 
-![Correlations](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/rsc/correlation.png "Correlations")
+![Correlations](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/main/rsc/correlation.png "Correlations")
 
 The *Unnamed: 0* column is the student ID.
 
@@ -50,7 +50,7 @@ Got an **F1 score (macro) equal to 0.191**
 I calculated the confusion matrix. In this matrix we can see what the model predicts compared to the real values.
 The following image is the confusion matrix.
 
-![Confusion matrix](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/master/rsc/conusion_matrix.png "Confusion matrix")
+![Confusion matrix](https://github.com/Javier-21/Nuwe-Talent-Squad-Data-Science-III/blob/main/rsc/conusion_matrix.png "Confusion matrix")
 
 The axes of the matrix show a coding from 0 to 5, but this corresponds to the parental level of eduction from the lowest to the highest category.
 
